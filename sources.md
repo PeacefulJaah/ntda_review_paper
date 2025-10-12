@@ -1,7 +1,7 @@
 # Sources
+
+## Machine learning for human emotion recognition: a comprehensive review
     https://link.springer.com/article/10.1007/s00521-024-09426-2
-    
-    https://www.researchgate.net/publication/358599893_A_Machine_Learning_based_Analysis_of_e-Sports_Player_Performances_in_League_of_Legends_for_Winning_Prediction_based_on_Player_Roles_and_Performances
 
 ## Explainable e-sports win prediction through Machine Learning classification in streaming
     - https://www.sciencedirect.com/science/article/pii/S1875952125001077
