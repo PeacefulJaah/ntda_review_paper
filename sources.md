@@ -42,7 +42,7 @@
     
     - https://ieeexplore.ieee.org/abstract/document/10760157
     ==>>> emotions 
-## 
+## The competitive esports physiological, affective, and video dataset
     https://www.nature.com/articles/s41597-024-04364-z ==>>> emotions
     
 
