@@ -93,3 +93,5 @@
     - https://www.sciencedirect.com/science/article/abs/pii/S1746809425002034
 ## A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
     - A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
+## Hybrid Transformer-LSTM Model for Athlete Performance Forecasting (HTL-APF)
+    - https://informatica.si/index.php/informatica/article/download/8013/4471
