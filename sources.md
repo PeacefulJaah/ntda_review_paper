@@ -31,8 +31,12 @@
     
     https://www.nature.com/articles/s41597-024-04364-z ==>>> emotions
     
-    https://norma.ncirl.ie/7946/ ==>>> facial emotions recognitions in context of gaming
-    
+
+## A Comparative Study of CNN, RNN-LSTM, and Transfer Learning Models for Facial Emotion Recognition in context of gaming 
+    - https://norma.ncirl.ie/7946/
+    ==>>> facial emotions recognitions in context of gaming
+
+## A machine learning investigation of factors that contribute to predicting cognitive performance: Difficulty level, reaction time and eye-movements
     https://www.sciencedirect.com/science/article/pii/S0167923621002232
 
 ## Machine learning and combinatorial analysis-based recognition of sports activity: An investigation using SVM and KNN classiers
