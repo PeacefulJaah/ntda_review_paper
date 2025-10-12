@@ -2,12 +2,13 @@
     https://link.springer.com/article/10.1007/s00521-024-09426-2
     
     https://www.researchgate.net/publication/358599893_A_Machine_Learning_based_Analysis_of_e-Sports_Player_Performances_in_League_of_Legends_for_Winning_Prediction_based_on_Player_Roles_and_Performances
-    
-    https://www.sciencedirect.com/science/article/pii/S1875952125001077
-    
-    https://www.reddit.com/r/GlobalOffensive/comments/4jikrh/so_im_programming_a_statistical_analysis_and/
 
-    https://arxiv.org/pdf/2407.11972
+## Explainable e-sports win prediction through Machine Learning classification in streaming
+    - https://www.sciencedirect.com/science/article/pii/S1875952125001077
+    
+    
+## An efficient machine learning approach for extracting eSports players’ distinguishing features and classifying their skill levels using symbolic transfer entropy and consensus nested cross validation
+    - https://arxiv.org/pdf/2407.11972
     
 ## A Machine Learning based Analysis of e-Sports Player Performances in League of Legends for Winning Prediction based on Player Roles and Performances
     - https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
