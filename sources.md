@@ -59,3 +59,9 @@
     - https://www.nature.com/articles/s41598-025-01438-9
 ## AI-enabled prediction of video game player performance using the data from heterogeneous sensors
     - https://pmc.ncbi.nlm.nih.gov/articles/PMC9395877/
+
+## The Use of Machine Learning in Sports Performance: A Systematic Review
+    - https://www.researchgate.net/publication/390308091_The_Use_of_Machine_Learning_in_Sports_Performance_A_Systematic_Review
+
+## Player Tracking Data and Psychophysiological Features Associated with Mental Fatigue in U15, U17, and U19 Male Football Players: A Machine Learning Approach
+    - https://www.researchgate.net/publication/390266159_Player_Tracking_Data_and_Psychophysiological_Features_Associated_with_Mental_Fatigue_in_U15_U17_and_U19_Male_Football_Players_A_Machine_Learning_Approach?_sg=gxSyRSHe3eKhyvf2tMsV_tuZKWjPQ-thEwpnicG2DwlVLWnuzYnwI9GgzZbMU1ikZqrnR_7b1BrbxS0&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNpZ251cCIsInBhZ2UiOiJfZGlyZWN0In19
