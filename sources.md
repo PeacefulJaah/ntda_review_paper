@@ -10,7 +10,8 @@
     https://arxiv.org/pdf/2407.11972
     
     https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
-    
+
+## Predicting Counter-Strike Matches Using Machine Learning Models
     https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
     
 ## eSports Players Professional Level and Tiredness Prediction using EEG and Machine Learning
