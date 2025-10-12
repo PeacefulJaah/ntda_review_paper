@@ -15,4 +15,28 @@
     
     https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
     
-    https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459<img width="853" height="699" alt="image" src="https://github.com/user-attachments/assets/049f5ea0-ef25-4c6e-9161-a8755ca4df38" />
+    https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
+
+    https://ieeexplore.ieee.org/abstract/document/9278704
+    
+    https://dergipark.org.tr/en/pub/aita/issue/77113/1260434
+    
+    http://119.40.116.186/resources/files/Pertanika%20PAPERS/JST%20Vol.%2033%20(2)%20Mar.%202025/11%20JST-5128-2024.pdf
+    
+    https://ijhati.utem.edu.my/ijhati/article/view/5965
+    
+    https://www.catapult.com/blog/sports-analytics-machine-learning
+    
+    https://ieeexplore.ieee.org/abstract/document/11119976/
+    
+    https://eprints.staffs.ac.uk/8372/
+    
+    https://ieeexplore.ieee.org/abstract/document/10760157 ==>>> emotions 
+    
+    https://www.nature.com/articles/s41597-024-04364-z ==>>> emotions
+    
+    https://norma.ncirl.ie/7946/ ==>>> facial emotions recognitions in context of gaming
+    
+    https://www.sciencedirect.com/science/article/pii/S0167923621002232
+    https://combinatorialpress.com/article/jcmcc/Volume%20125/machine-learning-and-combinatorial-analysis-based-recognition-of-sports-activity-an-investigation-using-svm-and-knn-classifiers.pdf
+    https://www.mdpi.com/2075-4663/12/6/151https://s-space.snu.ac.kr/bitstream/10371/151220/1/000000155024.pdf
