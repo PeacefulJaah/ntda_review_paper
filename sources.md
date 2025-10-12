@@ -66,3 +66,8 @@
 
 ## Player Tracking Data and Psychophysiological Features Associated with Mental Fatigue in U15, U17, and U19 Male Football Players: A Machine Learning Approach
     - https://www.researchgate.net/publication/390266159_Player_Tracking_Data_and_Psychophysiological_Features_Associated_with_Mental_Fatigue_in_U15_U17_and_U19_Male_Football_Players_A_Machine_Learning_Approach?_sg=gxSyRSHe3eKhyvf2tMsV_tuZKWjPQ-thEwpnicG2DwlVLWnuzYnwI9GgzZbMU1ikZqrnR_7b1BrbxS0&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNpZ251cCIsInBhZ2UiOiJfZGlyZWN0In19
+
+
+## An efficient machine learning approach for extracting eSports players’ distinguishing features and classifying their skill levels using symbolic transfer entropy and consensus nested cross-validation
+    - https://www.researchgate.net/publication/378546780_An_efficient_machine_learning_approach_for_extracting_eSports_players'_distinguishing_features_and_classifying_their_skill_levels_using_symbolic_transfer_entropy_and_consensus_nested_cross-validation
+    
