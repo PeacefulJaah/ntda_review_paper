@@ -92,6 +92,12 @@
 ## Predicting athletic injuries with deep Learning: Evaluating CNNs and RNNs for enhanced performance and Safety
     - https://www.sciencedirect.com/science/article/abs/pii/S1746809425002034
 ## A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
-    - A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
+    -https://www.researchgate.net/publication/395014085_A_narrative_review_of_deep_learning_applications_in_sports_performance_analysis_current_practices_challenges_and_future_directions
 ## Hybrid Transformer-LSTM Model for Athlete Performance Forecasting (HTL-APF)
     - https://informatica.si/index.php/informatica/article/download/8013/4471
+## Multi-Objective Multi-Instance Learning: A New Approach to Machine Learning for eSports
+    - https://www.mdpi.com/1099-4300/25/1/28
+## How Could They Win? An Exploration of Win Condition for Esports Narratives in Dota 2
+    - https://dl.acm.org/doi/abs/10.1145/3677079
+## Predicting the onset of acute performance decline in esports
+    - https://www.sciencedirect.com/science/article/pii/S0747563225000950
