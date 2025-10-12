@@ -71,3 +71,17 @@
 ## An efficient machine learning approach for extracting eSports players’ distinguishing features and classifying their skill levels using symbolic transfer entropy and consensus nested cross-validation
     - https://www.researchgate.net/publication/378546780_An_efficient_machine_learning_approach_for_extracting_eSports_players'_distinguishing_features_and_classifying_their_skill_levels_using_symbolic_transfer_entropy_and_consensus_nested_cross-validation
     
+## Nature of Volleyball Sport, Performance Analysis in Volleyball, and the Recent Advances of Machine Learning Application in Sports
+    - https://www.researchgate.net/publication/352512965_Nature_of_Volleyball_Sport_Performance_Analysis_in_Volleyball_and_the_Recent_Advances_of_Machine_Learning_Application_in_Sports
+
+## Real-Time Performance Evaluation of SDAT Men’s Volleyball Team Using NAC Sport Elite and Machine Learning Algorithms
+    - https://www.researchgate.net/publication/394869602_Real-Time_Performance_Evaluation_of_SDAT_Men's_Volleyball_Team_Using_NAC_Sport_Elite_and_Machine_Learning_Algorithms
+## Machine and deep learning for sport-specific movement recognition: a systematic review of model development and performance
+    - https://www.researchgate.net/publication/327590412_Machine_and_deep_learning_for_sport-specific_movement_recognition_a_systematic_review_of_model_development_and_performance
+##  The role of machine learning methods in physiological explorations of endurance trained athletes: a mini-review
+    - https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1440652/full
+##  Strategies for Reliable Stress Recognition: A Machine Learning Approach Using Heart Rate Variability Features
+    - https://www.mdpi.com/1424-8220/24/10/3210
+
+## Generalisable machine learning models trained on heart rate variability data to predict mental fatigue
+    - https://www.nature.com/articles/s41598-022-24415-y
