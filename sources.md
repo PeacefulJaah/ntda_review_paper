@@ -38,10 +38,6 @@
 ## Machine learning and combinatorial analysis-based recognition of sports activity: An investigation using SVM and KNN classiers
     - https://combinatorialpress.com/article/jcmcc/Volume%20125/machine-learning-and-combinatorial-analysis-based-recognition-of-sports-activity-an-investigation-using-svm-and-knn-classifiers.pdf
 
-
-    https://www.mdpi.com/2075-4663/12/6/151
-    https://s-space.snu.ac.kr/bitstream/10371/151220/1/000000155024.pdf
-
 ## Predictive athlete performance modeling with machine learning and biometric data integration
     - https://www.nature.com/articles/s41598-025-01438-9
 ## AI-enabled prediction of video game player performance using the data from heterogeneous sensors
