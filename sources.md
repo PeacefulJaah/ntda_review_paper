@@ -12,7 +12,8 @@
     https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
     
     https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
-
+    
+## eSports Players Professional Level and Tiredness Prediction using EEG and Machine Learning
     https://ieeexplore.ieee.org/abstract/document/9278704
 
 ##  A Machine Learning Based Predictive Analysis Use Case for eSports Games 
