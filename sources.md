@@ -85,3 +85,11 @@
 
 ## Generalisable machine learning models trained on heart rate variability data to predict mental fatigue
     - https://www.nature.com/articles/s41598-022-24415-y
+
+## Prediction of esports competition outcomes using EEG data from expert players
+    - https://www.sciencedirect.com/science/article/pii/S074756322400219X
+
+## Predicting athletic injuries with deep Learning: Evaluating CNNs and RNNs for enhanced performance and Safety
+    - https://www.sciencedirect.com/science/article/abs/pii/S1746809425002034
+## A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
+    - A narrative review of deep learning applications in sports performance analysis: current practices, challenges, and future directions
