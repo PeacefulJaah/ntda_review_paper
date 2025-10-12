@@ -6,28 +6,29 @@
     https://www.sciencedirect.com/science/article/pii/S1875952125001077
     
     https://www.reddit.com/r/GlobalOffensive/comments/4jikrh/so_im_programming_a_statistical_analysis_and/
-    
+
     https://arxiv.org/pdf/2407.11972
     
-    https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
+## A Machine Learning based Analysis of e-Sports Player Performances in League of Legends for Winning Prediction based on Player Roles and Performances
+    - https://www.scitepress.org/PublishedPapers/2022/108959/108959.pdf
 
 ## Predicting Counter-Strike Matches Using Machine Learning Models
-    https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
+    - https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
     
 ## eSports Players Professional Level and Tiredness Prediction using EEG and Machine Learning
-    https://ieeexplore.ieee.org/abstract/document/9278704
+    - https://ieeexplore.ieee.org/abstract/document/9278704
 
 ##  A Machine Learning Based Predictive Analysis Use Case for eSports Games 
-    https://dergipark.org.tr/en/pub/aita/issue/77113/1260434
+    - https://dergipark.org.tr/en/pub/aita/issue/77113/1260434
 
 ## Machine Learning Applications in Multiplayer Online Battle Arena Esports—A Systematic Review
-    http://119.40.116.186/resources/files/Pertanika%20PAPERS/JST%20Vol.%2033%20(2)%20Mar.%202025/11%20JST-5128-2024.pdf
+    - http://119.40.116.186/resources/files/Pertanika%20PAPERS/JST%20Vol.%2033%20(2)%20Mar.%202025/11%20JST-5128-2024.pdf
 
 ## Esports Analytics on PlayerUnknown's Battlegrounds Player Placement Prediction using Machine Learning 
-    https://ijhati.utem.edu.my/ijhati/article/view/5965
+    - https://ijhati.utem.edu.my/ijhati/article/view/5965
 
 ## How Machine Learning in Sports Analytics Unlocks Next-Level Athlete Performance
-    https://www.catapult.com/blog/sports-analytics-machine-learning
+    - https://www.catapult.com/blog/sports-analytics-machine-learning
     
 ## Maximizing eSports (Apex Legends) Players Arena Performance With Big Data Modeling    
     - https://ieeexplore.ieee.org/abstract/document/11119976/
