@@ -14,18 +14,25 @@
     https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9145457&fileOId=9145459
 
     https://ieeexplore.ieee.org/abstract/document/9278704
-    
+
+##  A Machine Learning Based Predictive Analysis Use Case for eSports Games 
     https://dergipark.org.tr/en/pub/aita/issue/77113/1260434
-    
+
+## Machine Learning Applications in Multiplayer Online Battle Arena Esports—A Systematic Review
     http://119.40.116.186/resources/files/Pertanika%20PAPERS/JST%20Vol.%2033%20(2)%20Mar.%202025/11%20JST-5128-2024.pdf
-    
+
+## Esports Analytics on PlayerUnknown's Battlegrounds Player Placement Prediction using Machine Learning 
     https://ijhati.utem.edu.my/ijhati/article/view/5965
-    
+
+## How Machine Learning in Sports Analytics Unlocks Next-Level Athlete Performance
     https://www.catapult.com/blog/sports-analytics-machine-learning
     
-    https://ieeexplore.ieee.org/abstract/document/11119976/
-    
-    https://eprints.staffs.ac.uk/8372/
+## Maximizing eSports (Apex Legends) Players Arena Performance With Big Data Modeling    
+    - https://ieeexplore.ieee.org/abstract/document/11119976/
+
+## Development of Artificial Intelligence-based Model to Predict Esports Players’ Skill Levels
+
+    - https://eprints.staffs.ac.uk/8372/
 
 ## Method for Classifying Emotions in Older Adults Playing eSports
     
