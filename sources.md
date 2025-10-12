@@ -43,3 +43,5 @@
 
 ## Predictive athlete performance modeling with machine learning and biometric data integration
     - https://www.nature.com/articles/s41598-025-01438-9
+## AI-enabled prediction of video game player performance using the data from heterogeneous sensors
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC9395877/
