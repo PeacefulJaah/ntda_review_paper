@@ -1,5 +1,5 @@
 # Resume articles #18-35
 
-**Article x**
+# Article x
 ## Titre ---
 ## Abstract
