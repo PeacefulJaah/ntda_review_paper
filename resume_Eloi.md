@@ -201,7 +201,7 @@ Donc majoritairement à l'époque analyse images vidéo + mesures inertielles su
 
 Utilisation de beaucoup d'études différentes, avec plein de modèles de classification
 
-##Article 26 - The role of machine learning methods in physiological explorations of endurance trained athletes: a mini-review - Date : Novembre 2024
+## Article 26 - The role of machine learning methods in physiological explorations of endurance trained athletes: a mini-review - Date : Novembre 2024
 
 https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2024.1440652/full
 
@@ -225,7 +225,7 @@ Limitations du ML dans l'analyse physiologique :
 
 Importance de l'éthique dans l'utilisation des données physiologiques personnelles !!!
 
-##Article 27 - Strategies for Reliable Stress Recognition A Machine Learning Approach Using Heart Rate Variability Features - Date : Mai 2024
+## Article 27 - Strategies for Reliable Stress Recognition A Machine Learning Approach Using Heart Rate Variability Features - Date : Mai 2024
 https://www.mdpi.com/1424-8220/24/10/3210
 
 Reconnaissance du stress avec des modèles ML avec des données physiologiques.
