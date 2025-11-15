@@ -1,0 +1,30 @@
+	• Abstract
+	• Index terms
+	i. Introduction
+		a. Context : ML, psychophysiology, sports & e-sports performance
+		b. Why combining these domains?
+		c. Limitations in current approaches
+		d. Scope and review approach (haut niveau et narratif, pas de la recherche nouvelles, méthodes)
+		e. Goal of this review (what readers are expected to learn)
+	ii. Foundations (simplified explanations of the concepts => for beginners in either DS or sports field)
+		a. Psychophysiological basics
+		b. Performance concepts 
+		c. Machine learning basics
+	iii. SoTA
+		a. How Psychophysiological data are used in performance research
+			i. Also used for health researches -> so maybe ppl should base more on medical reviews ?
+		b. ML models applied to sports context using psychophysiological signals
+		c. Cross-domain findings (i.e what's similir in both domains)
+		d. What current SoTA does well
+		e. What current SoTA misses - Take notes from other domains using timeseries to apply them
+	iv. Applications
+		a. Injury risks prediction -> adapative to sports/ e-sports
+		b. Mental charge risks (burn-out, fatigue, tilt)
+		c. Personnal / collective improvements
+		d. Strategies (prediction of opponent, game-plan, counter-plans, ..?)
+		e. Talents detection
+		f. Decision-making enhancement
+		g. Other exemples…
+	v. Challenges and Critical perspective
+	vi. Perspectives, oppourtunities, recommendations
+Conclusion
