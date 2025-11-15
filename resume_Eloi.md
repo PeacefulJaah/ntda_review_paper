@@ -26,56 +26,6 @@ Fonctionnement du rapport:
 	4. Applications aux personnes intéressées pour optimiser : charge d'entraînement, dynamique d'équipe et résiliance mentale
 
   
-Article 18 - Predictive athlete performance modeling with machine learning and biometric data integration - Date: Juillet 2022
-
-Cette étude propose un nouveau framework intégratif pour prédire les performance athlétique/sportive en utilisant les données biométriques et physiologiques. Utilisation de gradient boosting et NN pour l'apprentissage (n=480 et accuracy = 0.90) vs approches statistiques classiques (acc = 0.77) et ml-based methods (0.77).
-Le modèle sert à aider les joueurs (individuellement) sur les plans physiologiques et psychologiques et permet de réduire les risques de blessure.
-
-La composante la moins développée dans les modèles de ML s'appliquant sur l'humain est celle de la psychologie. Les composantes psychologiques (t.q résilience mentale, force mentale et l'engagement sportif) ont un rôle important dans la victoire.
-
-Les conditions mentales, psychologiques et interpersonnelles doivent être incorporées dans les modèles de ML (même les modèles NN et bioméchaniques) pour obtenir des résultats adéquats.
-
-"Machine Learning Integration: The process of incorporating AI-driven algorithms into existing systems or workflows to enhance decision-making, automate tasks, and improve overall efficiency"
-
-Utilisation de ensemble techniques, neural networks et hybrid systems pour améliorer les performances. Le burn-out c'est une composante non-indentifiable par les modèles de régression traditionnels.
-
-4 domaines : Physiologique, Bioméchanique, Psychologique, contexte (environnement et situationnel)
-
-"a novel interdisciplinary model that integrates machine learning with psychosocial elements of mental toughness, team cohesion, and athlete engagement"
-
-Fonctionnement du rapport: 
-"The contributions of this study are fourfold. First, we create a predictive model that integrates psychological factors with physiological metrics using advanced machine learning methods, forming a sophisticated model that combines computerized and psychosocial approaches. Second, we expand previous research that utilized validated psychological scales and precise physiological measurements by analyzing the comprehensive dataset that incorporates both. Third, we compare the relative performance of advanced learning algorithms, such as deep neural networks, ensembles, and hybrid models, to determine which modeling strategies are most effective for the intricate problems at the convergence of physiology and psychology. Fourth, we show practitioners how our findings can be implemented by optimally managing training load, team dynamics, and mental resilience development to enhance performance outcomes."
-
-	1. Modèle prédictif intégrant les facteurs psy avec les mesure physiologiques => modèle sophistiqué qui combine les approches purement stats avec le psychosocial
-	2. Expansion d'études précédentes psychosocial et physiologiques en analysant le dataset qui contiendra les 2.
-	3. Comparaisont des performances d'algorithmes d'advanced learning (DNN, ensembles, hybrids) pour déterminer les plus adaptés aux problèmes psycho-physiologiques.
-	4. Applications aux personnes intéressées pour optimiser : charge d'entraînement, dynamique d'équipe et résiliance mentale
-  Article 18 - Predictive athlete performance modeling with machine learning and biometric data integration - Date: Juillet 2022
-
-Cette étude propose un nouveau framework intégratif pour prédire les performance athlétique/sportive en utilisant les données biométriques et physiologiques. Utilisation de gradient boosting et NN pour l'apprentissage (n=480 et accuracy = 0.90) vs approches statistiques classiques (acc = 0.77) et ml-based methods (0.77).
-Le modèle sert à aider les joueurs (individuellement) sur les plans physiologiques et psychologiques et permet de réduire les risques de blessure.
-
-La composante la moins développée dans les modèles de ML s'appliquant sur l'humain est celle de la psychologie. Les composantes psychologiques (t.q résilience mentale, force mentale et l'engagement sportif) ont un rôle important dans la victoire.
-
-Les conditions mentales, psychologiques et interpersonnelles doivent être incorporées dans les modèles de ML (même les modèles NN et bioméchaniques) pour obtenir des résultats adéquats.
-
-"Machine Learning Integration: The process of incorporating AI-driven algorithms into existing systems or workflows to enhance decision-making, automate tasks, and improve overall efficiency"
-
-Utilisation de ensemble techniques, neural networks et hybrid systems pour améliorer les performances. Le burn-out c'est une composante non-indentifiable par les modèles de régression traditionnels.
-
-4 domaines : Physiologique, Bioméchanique, Psychologique, contexte (environnement et situationnel)
-
-"a novel interdisciplinary model that integrates machine learning with psychosocial elements of mental toughness, team cohesion, and athlete engagement"
-
-Fonctionnement du rapport: 
-"The contributions of this study are fourfold. First, we create a predictive model that integrates psychological factors with physiological metrics using advanced machine learning methods, forming a sophisticated model that combines computerized and psychosocial approaches. Second, we expand previous research that utilized validated psychological scales and precise physiological measurements by analyzing the comprehensive dataset that incorporates both. Third, we compare the relative performance of advanced learning algorithms, such as deep neural networks, ensembles, and hybrid models, to determine which modeling strategies are most effective for the intricate problems at the convergence of physiology and psychology. Fourth, we show practitioners how our findings can be implemented by optimally managing training load, team dynamics, and mental resilience development to enhance performance outcomes."
-
-	1. Modèle prédictif intégrant les facteurs psy avec les mesure physiologiques => modèle sophistiqué qui combine les approches purement stats avec le psychosocial
-	2. Expansion d'études précédentes psychosocial et physiologiques en analysant le dataset qui contiendra les 2.
-	3. Comparaisont des performances d'algorithmes d'advanced learning (DNN, ensembles, hybrids) pour déterminer les plus adaptés aux problèmes psycho-physiologiques.
-	4. Applications aux personnes intéressées pour optimiser : charge d'entraînement, dynamique d'équipe et résiliance mentale
-
-
 ## Article 19 -  AI-enabled prediction of video game player performance using the data from heterogeneous sensors https://pmc.ncbi.nlm.nih.gov/articles/PMC9395877/
 
 Modèle de prédiction des performances de joueurs e-sports en utilisant les données physiologiques, environnementales et capteurs sur une "smart-chair" (i.e. mouvements / agitation).
